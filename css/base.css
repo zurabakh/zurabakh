@@ -1,4 +1,19 @@
 h1 {
 
-    color: red;
+    color: rgb(51, 92, 135);
+}
+h3 {
+    margin-left: 10pc;
+}
+body{
+    background-color: lightblue;
+}
+div{
+    width: 300px;
+    margin: auto;
+    border: 1px solid red;
+    
+}
+title{
+    size: 500px;
 }
